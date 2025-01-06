@@ -17,12 +17,6 @@ Este projeto tem como objetivo criar uma aplicação para organizar o sistema de
 | Example Color | ![#DA87DA](https://via.placeholder.com/10/DA87DA?text=+) #DA87DA |
 | Example Color | ![#999](https://via.placeholder.com/10/999?text=+) #999 |
 
-
-## Demonstração
-
-Link do projeto: [https://sistemadechamados-o2m0hlt1u-rafaeltws-projects.vercel.app/](https://sistemadechamados-rho.vercel.app/)
-
-
 ## Intalação
 
 ```bash
